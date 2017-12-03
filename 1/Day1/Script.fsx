@@ -2,6 +2,7 @@
 // for more guidance on F# programming.
 
 #load "InverseCaptcha.fs"
+#load "SpreadsheetChecksum.fs"
 open Day1
 
 // Define your library scripting code here
