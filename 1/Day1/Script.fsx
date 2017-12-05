@@ -3,6 +3,7 @@
 
 #load "InverseCaptcha.fs"
 #load "SpreadsheetChecksum.fs"
+#load "SpiralMemory.fs"
 open Day1
 
 // Define your library scripting code here
