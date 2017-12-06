@@ -43,6 +43,7 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Day5Tests.cs" />
     <Compile Include="HighEntropyPassphrasesTests.cs" />
     <Compile Include="InverseCatchphaTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

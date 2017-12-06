@@ -1,7 +1,6 @@
 ﻿namespace Day1
 
 open System
-open System.Runtime.InteropServices.ComTypes
 
 type HighEntropyPassphrases() =
 

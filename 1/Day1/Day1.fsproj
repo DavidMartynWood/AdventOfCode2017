@@ -57,6 +57,7 @@
     <Compile Include="SpreadsheetChecksum.fs" />
     <Compile Include="SpiralMemory.fs" />
     <Compile Include="HighEntropyPassphrases.fs" />
+    <Compile Include="Day5.fs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
